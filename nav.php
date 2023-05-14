@@ -1,4 +1,11 @@
 <?php
+    function setExpires($expires) {
+      header('Expires: '.gmdate('D, d M Y H:i:s', time() + $expires).'GMT');
+    }
+    setExpires(10000);
+
+    $appName = 'Abmo Counselling';
+    
     $index = '';
     $about = '';
     $counselor = '';
@@ -9,22 +16,25 @@
 
     switch ($pageNumber) {
         case 1:
-            $index = '';
+            $index = ' active';
           break;
         case 2:
-          code to be executed if n=label2;
+          $about = ' active';
           break;
         case 3:
-          code to be executed if n=label3;
+          $counsellor = ' active';
           break;
         case 4:
-            code to be executed if n=label3;
+          $services = ' active';
             break;
         case 6:
-            code to be executed if n=label3;
+          $pricing = ' active';
             break;
         case 6:
-            code to be executed if n=label3;
+          $blog = ' active';
+            break;
+        case 7:
+          $contact = ' active';
             break;
         default:
           $index = '';
