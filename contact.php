@@ -1,3 +1,7 @@
+<?php	
+	$pageNumber = 7;	
+	require_once 'nav.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -17,6 +21,8 @@
     
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/style.css">
+
+	<?php require_once 'meta.php'; ?>
   </head>
   <body>
 
@@ -29,7 +35,7 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate mb-5 text-center">
-          	<p class="breadcrumbs mb-0"><span class="mr-2"><a href="index.html">Home <i class="fa fa-chevron-right"></i></a></span> <span>Contact Us <i class="fa fa-chevron-right"></i></span></p>
+          	<p class="breadcrumbs mb-0"><span class="mr-2"><a href="index.php">Home <i class="fa fa-chevron-right"></i></a></span> <span>Contact Us <i class="fa fa-chevron-right"></i></span></p>
             <h1 class="mb-0 bread">Contact Us</h1>
           </div>
         </div>

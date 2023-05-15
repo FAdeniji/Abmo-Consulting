@@ -1,7 +1,6 @@
 <?php
     $pageNumber = 2;
     require_once 'nav.php';
-    $title = 'Abmo Counselling: About Us';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -22,6 +21,8 @@
     
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/style.css">
+
+    <?php require_once 'meta.php'; ?>
   </head>
   <body>
 
@@ -48,7 +49,7 @@
 					</div>
 					<div class="col-md-6 wrap-about px-md-5 ftco-animate py-5 bg-light">
 	          <div class="heading-section py-md-5">
-	          	<span class="subheading">Welcome to Counselor</span>
+	          	<span class="subheading">Welcome to <?php echo $appName; ?></span>
 	            <h2 class="mb-4">Best Counseling Funding Network Worldwide.</h2>
 
 	            <p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</p>

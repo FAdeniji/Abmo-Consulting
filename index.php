@@ -2,7 +2,6 @@
 	
 	$pageNumber = 1;	
 	require_once 'nav.php';
-	$title = 'Abmo Counselling: Home';
 
 ?>
 <!DOCTYPE html>
@@ -24,6 +23,8 @@
     
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/style.css">
+
+	<?php require_once 'meta.php'; ?>
   </head>
   <body>
 
@@ -504,7 +505,7 @@
 
     <?php
 		include('footer.php');
-   ?>
+   	?>
     
   </body>
 </html>

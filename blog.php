@@ -1,7 +1,11 @@
+<?php
+    $pageNumber = 6;
+    require_once 'nav.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Counselor - Free Bootstrap 4 Template by Colorlib</title>
+    <title><?php echo $title; ?></title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -17,6 +21,8 @@
     
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/style.css">
+
+    <?php require_once 'meta.php'; ?>
   </head>
   <body>
 

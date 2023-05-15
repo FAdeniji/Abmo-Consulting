@@ -17,26 +17,33 @@
     switch ($pageNumber) {
         case 1:
             $index = ' active';
+            $title = $appName . ': Home';
           break;
         case 2:
-          $about = ' active';
+            $about = ' active';
+            $title = $appName. ': About Us';
           break;
         case 3:
-          $counsellor = ' active';
+            $counselor = ' active';
+            $title = $appName . ': Counsellot';
           break;
         case 4:
-          $services = ' active';
-            break;
+            $services = ' active';
+            $title = $appName . ': Services';
+          break;
+        case 5:
+            $pricing = ' active';
+            $title = $appName . ': Pricing';
+          break;
         case 6:
-          $pricing = ' active';
-            break;
-        case 6:
-          $blog = ' active';
-            break;
+            $blog = ' active';
+            $title = $appName. ': Blog';
+          break;
         case 7:
-          $contact = ' active';
-            break;
+            $contact = ' active';
+            $title = $appName . ': Contact';
+          break;
         default:
-          $index = '';
+          $index = ' active';
       }
 ?>
