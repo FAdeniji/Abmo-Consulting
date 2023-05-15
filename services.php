@@ -113,7 +113,7 @@
     			</div>
     			<div class="col-md-6">
     				<div class="services-wrap d-flex">
-    					<div class="img" style="background-image: url(images/services-2.jpg);"></div>
+    					<div class="img" style="background-image: url(images/services-2.png);"></div>
     					<div class="text">
     						<h2>Couples Counseling</h2>
     						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
@@ -123,7 +123,7 @@
 
     			<div class="col-md-6">
     				<div class="services-wrap d-flex">
-    					<div class="img order-md-last" style="background-image: url(images/services-3.jpg);"></div>
+    					<div class="img order-md-last" style="background-image: url(images/depression.jpeg);"></div>
     					<div class="text">
     						<h2>Depression Treatment</h2>
     						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
@@ -132,7 +132,7 @@
     			</div>
     			<div class="col-md-6">
     				<div class="services-wrap d-flex">
-    					<div class="img order-md-last" style="background-image: url(images/services-4.jpg);"></div>
+    					<div class="img order-md-last" style="background-image: url(images/family.jpg);"></div>
     					<div class="text">
     						<h2>Family Problem</h2>
     						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
@@ -142,7 +142,7 @@
 
     			<div class="col-md-6">
     				<div class="services-wrap d-flex">
-    					<div class="img" style="background-image: url(images/services-5.jpg);"></div>
+    					<div class="img" style="background-image: url(images/personal.jpg);"></div>
     					<div class="text">
     						<h2>Personal Problem</h2>
     						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
@@ -151,7 +151,7 @@
     			</div>
     			<div class="col-md-6">
     				<div class="services-wrap d-flex">
-    					<div class="img" style="background-image: url(images/services-6.jpg);"></div>
+    					<div class="img" style="background-image: url(images/business.jpeg);"></div>
     					<div class="text">
     						<h2>Business Problem</h2>
     						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>

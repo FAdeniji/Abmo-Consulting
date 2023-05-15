@@ -8261,7 +8261,7 @@ h1, h2, h3, h4, h5,
   position: relative; }
   .slider-text h1 {
     font-size: 60px;
-    color: #000000;
+    color: #ffffff;
     line-height: 1.1;
     font-weight: 500; }
     .slider-text h1 span {
@@ -8292,7 +8292,7 @@ h1, h2, h3, h4, h5,
   .slider-text p {
     font-size: 18px;
     line-height: 1.5;
-    color: rgba(0, 0, 0, 0.8); }
+    color: #ffffff; }
   .slider-text .breadcrumbs {
     font-size: 14px;
     margin-bottom: 20px;

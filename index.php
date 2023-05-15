@@ -32,7 +32,7 @@
 		include('header.php');
 	?>
     
-    <div class="hero-wrap" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="hero-wrap" style="background-image: url('images/counselling_bg.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-center">
@@ -142,7 +142,7 @@
     <section class="ftco-section ftco-no-pb ftco-no-pt">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6 img img-3 d-flex justify-content-center align-items-center" style="background-image: url(images/about-1.jpg);">
+					<div class="col-md-6 img img-3 d-flex justify-content-center align-items-center" style="background-image: url(images/counsellor.png);">
 					</div>
 					<div class="col-md-6 wrap-about px-md-5 ftco-animate py-5 bg-light">
 	          <div class="heading-section">
@@ -197,32 +197,32 @@
 					<div class="col-md-8">
 						<div class="tab-content">
 						  <div class="tab-pane container p-0 active" id="services-1">
-						  	<div class="img" style="background-image: url(images/services-1.jpg);"></div>
+						  	<div class="img" style="background-image: url(images/relation.jpg);"></div>
 						  	<h3><a href="#">Relation Problem</a></h3>
 						  	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 						  </div>
 						  <div class="tab-pane container p-0 fade" id="services-2">
-						  	<div class="img" style="background-image: url(images/services-2.jpg);"></div>
+						  	<div class="img" style="background-image: url(images/couple.jpg);"></div>
 						  	<h3><a href="#">Couples Counseling</a></h3>
 						  	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 						  </div>
 						  <div class="tab-pane container p-0 fade" id="services-3">
-						  	<div class="img" style="background-image: url(images/services-3.jpg);"></div>
+						  	<div class="img" style="background-image: url(images/depression.jpg);"></div>
 						  	<h3><a href="#">Depression Treatment</a></h3>
 						  	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 						  </div>
 						  <div class="tab-pane container p-0 fade" id="services-4">
-						  	<div class="img" style="background-image: url(images/services-4.jpg);"></div>
+						  	<div class="img" style="background-image: url(images/family.jpg);"></div>
 						  	<h3><a href="#">Family Problem</a></h3>
 						  	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 						  </div>
 						  <div class="tab-pane container p-0 fade" id="services-5">
-						  	<div class="img" style="background-image: url(images/services-5.jpg);"></div>
+						  	<div class="img" style="background-image: url(images/personal.jpg);"></div>
 						  	<h3><a href="#">Personal Problem</a></h3>
 						  	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 						  </div>
 						  <div class="tab-pane container p-0 fade" id="services-6">
-						  	<div class="img" style="background-image: url(images/services-6.jpg);"></div>
+						  	<div class="img" style="background-image: url(images/business.jpeg);"></div>
 						  	<h3><a href="#">Business Problem</a></h3>
 						  	<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 						  </div>
@@ -234,7 +234,7 @@
 
   
     <section class="ftco-section testimony-section">
-    	<div class="img img-bg border" style="background-image: url(images/bg_4.jpg);"></div>
+    	<div class="img img-bg border" style="background-image: url(images/counselling_bg.jpg);"></div>
     	<div class="overlay"></div>
       <div class="container">
         <div class="row justify-content-center mb-5">
@@ -438,70 +438,6 @@
     		</div>
     	</div>
     </section>
-
-    <section class="ftco-section">
-      <div class="container">
-        <div class="row justify-content-center mb-5">
-          <div class="col-md-7 heading-section text-center ftco-animate">
-          	<span class="subheading">Blog</span>
-            <h2>Recent Blog</h2>
-          </div>
-        </div>
-        <div class="row d-flex">
-          <div class="col-md-4 d-flex ftco-animate">
-          	<div class="blog-entry justify-content-end">
-              <div class="text text-center">
-              	<a href="blog-single.html" class="block-20 img" style="background-image: url('images/image_1.jpg');">
-	              </a>
-	              <div class="meta text-center mb-2 d-flex align-items-center justify-content-center">
-                	<div>
-                		<span class="day">18</span>
-                		<span class="mos">April</span>
-                		<span class="yr">2020</span>
-                	</div>
-                </div>
-                <h3 class="heading mb-3"><a href="#">Social Media Risks To Mental Health</a></h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 d-flex ftco-animate">
-          	<div class="blog-entry justify-content-end">
-              <div class="text text-center">
-              	<a href="blog-single.html" class="block-20 img" style="background-image: url('images/image_2.jpg');">
-	              </a>
-	              <div class="meta text-center mb-2 d-flex align-items-center justify-content-center">
-                	<div>
-                		<span class="day">18</span>
-                		<span class="mos">April</span>
-                		<span class="yr">2020</span>
-                	</div>
-                </div>
-                <h3 class="heading mb-3"><a href="#">Social Media Risks To Mental Health</a></h3>
-                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-4 d-flex ftco-animate">
-          	<div class="blog-entry justify-content-end">
-              <div class="text text-center">
-              	<a href="blog-single.html" class="block-20 img" style="background-image: url('images/image_3.jpg');">
-	              </a>
-	              <div class="meta text-center mb-2 d-flex align-items-center justify-content-center">
-                	<div>
-                		<span class="day">18</span>
-                		<span class="mos">April</span>
-                		<span class="yr">2020</span>
-                	</div>
-                </div>
-                <h3 class="heading mb-3"><a href="#">Social Media Risks To Mental Health</a mb-3></h3>
-								<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>              
-							</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>	
 
     <?php
 		include('footer.php');

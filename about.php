@@ -107,7 +107,7 @@
 
   
     <section class="ftco-section testimony-section">
-    	<div class="img img-bg border" style="background-image: url(images/bg_4.jpg);"></div>
+    	<div class="img img-bg border" style="background-image: url(images/bg_2_new.png);"></div>
     	<div class="overlay"></div>
       <div class="container">
         <div class="row justify-content-center mb-5">
